@@ -1,0 +1,81 @@
+RENDU-ELIE-19-JUIN-PRISCA.css
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+    color:black;
+    font-size: 50px;
+    width: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+  }
+  h2 {
+    color:dimgrey;
+    font-size: 20px;
+    width: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  h3 {
+    color:dimgrey;
+    font-size: 20px;
+    width: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+  }
+
+.image {
+    background-image: url("https://image.shutterstock.com/image-vector/african-american-woman-avatar-happy-260nw-1186508659.jpg");
+  box-shadow: 5px 0px 5px 0px;
+  float: center;
+  image-orientation: center;
+}
+
+.coul-h1{
+  color:#6b066b;
+}
+
+.content {
+  font-size: 1.2em;
+  width: auto;
+  margin: 5em;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.intro{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: grey
+}
+
+.li {
+  list-style-type: circle;
+  color: green;
+}
+
+.red{
+  color: red;
+}
+
+.conteneur{
+  width: 80%
+  
+}
+
+.crop circle{
+border-radius: 90px;
+}
+
+.footer {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+    background-color:lightgrey;
+  margin: 5em;
+}
+
